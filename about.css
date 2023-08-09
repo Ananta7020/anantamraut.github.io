@@ -1,0 +1,33 @@
+body{
+    background: #a71244;
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.5;
+}
+
+.custom-color{
+    background: #d30449;
+    box-shadow: 0 4px 6px #2c2b2b;
+}
+
+.img-section img{
+    width: 70%;
+    border-radius: 0 107px;
+    box-shadow: 10px 10px 23px #e7a8a8;
+}
+
+.text-section{
+    color: #fff;
+}
+
+.black-text{
+    color: black;
+    font-weight: bold;
+}
+
+.text-section h2{
+    font-size: 3rem;
+}
+
+.text-section p{
+    font-size: 28px;
+}
